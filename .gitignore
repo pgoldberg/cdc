@@ -1,0 +1,10 @@
+*.py[cod]
+__pycache__/
+misc/
+cdc/output/*
+notes.txt
+build/
+dist/
+cdc/gui/guiconfig.py
+Canary_Data_Converter.egg-info
+.DS_Store

@@ -1,0 +1,13 @@
+CANARY DATA CONVERTER (C) 2017
+
+License GPLv3+: GNU GPL version 3 or later. There is no warranty, to the extent permitted by law.
+
+Software Developed by:
+
+	Peter S. Goldberg
+	Shervin Malmasi, PhD
+	Alexander Turchin, MD, MS
+
+For additional information, to request assistance or report bugs, please visit our website located at:
+
+http://canary.bwh.harvard.edu/
